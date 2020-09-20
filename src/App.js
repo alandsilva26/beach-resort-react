@@ -19,13 +19,9 @@ function App() {
     <>
       <NavBar />
       <Switch>
-        <Route exact path="beach-resort-react/" component={Home} />
-        <Route exact path="beach-resort-react/rooms" component={Rooms} />
-        <Route
-          exact
-          path="beach-resort-react/rooms/:slug"
-          component={SingleRoom}
-        />
+        <Route exact path="/" component={Home} />
+        <Route exact path="/rooms" component={Rooms} />
+        <Route exact path="/rooms/:slug" component={SingleRoom} />
         <Route component={Error} />
       </Switch>
     </>
