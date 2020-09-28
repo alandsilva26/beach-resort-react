@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/beach-resort-react/static/css/main.369a4df8.chunk.css",
-    "main.js": "/beach-resort-react/static/js/main.ee5ecdd3.chunk.js",
-    "main.js.map": "/beach-resort-react/static/js/main.ee5ecdd3.chunk.js.map",
+    "main.js": "/beach-resort-react/static/js/main.2efec793.chunk.js",
+    "main.js.map": "/beach-resort-react/static/js/main.2efec793.chunk.js.map",
     "runtime-main.js": "/beach-resort-react/static/js/runtime-main.9e0e6df5.js",
     "runtime-main.js.map": "/beach-resort-react/static/js/runtime-main.9e0e6df5.js.map",
-    "static/js/2.fcd852ed.chunk.js": "/beach-resort-react/static/js/2.fcd852ed.chunk.js",
-    "static/js/2.fcd852ed.chunk.js.map": "/beach-resort-react/static/js/2.fcd852ed.chunk.js.map",
+    "static/js/2.e928c6e0.chunk.js": "/beach-resort-react/static/js/2.e928c6e0.chunk.js",
+    "static/js/2.e928c6e0.chunk.js.map": "/beach-resort-react/static/js/2.e928c6e0.chunk.js.map",
     "index.html": "/beach-resort-react/index.html",
-    "precache-manifest.1fe6e583fbe7053e1f8db2479594ae86.js": "/beach-resort-react/precache-manifest.1fe6e583fbe7053e1f8db2479594ae86.js",
+    "precache-manifest.89e92d076265ddb1bac2bfd4260c37e8.js": "/beach-resort-react/precache-manifest.89e92d076265ddb1bac2bfd4260c37e8.js",
     "service-worker.js": "/beach-resort-react/service-worker.js",
     "static/css/main.369a4df8.chunk.css.map": "/beach-resort-react/static/css/main.369a4df8.chunk.css.map",
-    "static/js/2.fcd852ed.chunk.js.LICENSE.txt": "/beach-resort-react/static/js/2.fcd852ed.chunk.js.LICENSE.txt",
+    "static/js/2.e928c6e0.chunk.js.LICENSE.txt": "/beach-resort-react/static/js/2.e928c6e0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/beach-resort-react/static/media/room-2.052c7681.jpeg",
     "static/media/details-1.jpeg": "/beach-resort-react/static/media/details-1.33ab9f1e.jpeg",
     "static/media/details-2.jpeg": "/beach-resort-react/static/media/details-2.50c23e62.jpeg",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9e0e6df5.js",
-    "static/js/2.fcd852ed.chunk.js",
+    "static/js/2.e928c6e0.chunk.js",
     "static/css/main.369a4df8.chunk.css",
-    "static/js/main.ee5ecdd3.chunk.js"
+    "static/js/main.2efec793.chunk.js"
   ]
 }
